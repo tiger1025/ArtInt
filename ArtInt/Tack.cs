@@ -12,7 +12,7 @@ namespace ArtInt
         {
         }
 
-        public ~Tack()
+        ~Tack()
         {
         }
     }
